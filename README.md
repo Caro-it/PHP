@@ -1,2 +1,2 @@
 # PHP
-Proyectos realizados en diferentes cursos DE PHP
+Proyectos realizados en cursos DE PHP
